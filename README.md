@@ -29,4 +29,4 @@ Word: eye
 Reverse: eye
 Result: true
 ```
-<a href="https://a-marvulle.github.io/JS-Algorithms-and-Data-Structures/" target=_blank>Pages</a>
+<a href="https://a-marvulle.github.io/palindrome/" target=_blank>Pages</a>
